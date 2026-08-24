@@ -122,16 +122,15 @@ Machine Learning Component:
 
 --- Model Performance ---
 Accuracy: 75.00%
-
 Classification Report:
+    Classification Report:
               precision    recall  f1-score   support
-
            0       0.76      0.97      0.85       151
            1       0.43      0.06      0.11        49
-
     accuracy                           0.75       200
    macro avg       0.60      0.52      0.48       200
 weighted avg       0.68      0.75      0.67       200
+
 
 ### Feature Importance
 
