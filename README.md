@@ -139,7 +139,7 @@ The Random Forest model is also used to identify the most important features inf
 customer churn.
 The feature importance graph helps understand which customer characteristics contribute 
 most to the prediction.
-
+![image alt](https://github.com/Mohini-Suryawanshi-27/Python-Data-Project/blob/552ed618504046ab022d000f69e72e46f3e60305/Figure_1.png)
 ## 12.Future Scope
 
 The project can be further improved by:
